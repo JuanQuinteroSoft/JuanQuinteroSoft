@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juandiegoquinterocampus&label=Profile%20views&color=0e75b6&style=flat" alt="juandiegoquinterocampus" /> </p>
 <br>
 <p align="center">
- - 🔭 I’m currently studing on Campuslands.<br>
- - 🌱 I’m currently learning Node.js<br>
+ - 🔭 I’m currently studing on Santander Technology Units.<br>
+ - 🌱 I am very interested in learning about economics and investments.<br>
  - ⚡ Fun fact "Time is the way to your destiny". <br>
   </p>
 
